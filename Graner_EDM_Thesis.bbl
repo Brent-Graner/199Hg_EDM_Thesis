@@ -1,0 +1,451 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{CDVVW79}
+
+\bibitem[Bal79]{1979_Baluni_nEDM_from_QCD}
+V.~Baluni.
+\newblock {CP}-nonconserving effects in quantum chromodynamics.
+\newblock {\em Phys. Rev. D}, 19:2227--30, Apr 1979.
+
+\bibitem[BB66]{1966_Bouchiat_Brossel_Rb_relaxation}
+M.A. Bouchiat and J.~Brossel.
+\newblock Relaxation of optiaclly pumped {R}b atoms on paraffin-coated walls.
+\newblock {\em Phys. Rev.}, 147(1):41--54, Jul 1966.
+
+\bibitem[BCD{\etalchar{+}}14]{2014_ACME_eEDM}
+J.~Baron, W.~C. Campbell, D.~DeMille, J.~M. Doyle, G.~Gabrielse, Y.~V.
+  Gurevich, P.~W. Hess, N.~R. Hutzler, E.~Kirilov, I.~Kozyryev, B.~R.
+  O’Leary, C.~D. Panda, M.~F. Parsons, E.~S. Petrik, B.~Spaun, A.~C. Vutha,
+  and A.~D. West.
+\newblock Order of magnitude smaller limit on the electric dipole moment of the
+  electron.
+\newblock {\em Science}, 343(6168):269--272, 2014.
+
+\bibitem[BDES10]{2010_Engel_self-consistent_Schiff_moments}
+Shufang Ban, Jacek Dobaczewski, Jonathan Engel, and A.~Shukla.
+\newblock Fully self-consistent calculations of nuclear schiff moments.
+\newblock {\em Phys. Rev. C}, 82:015501, Jul 2010.
+
+\bibitem[BDG{\etalchar{+}}06]{2006_ILL_nEDM}
+C.~A. Baker, D.~D. Doyle, P.~Geltenbort, K.~Green, M.~G.~D. van~der Grinten,
+  P.~G. Harris, P.~Iaydjiev, S.~N. Ivanov, D.~J.~R. May, J.~M. Pendlebury,
+  J.~D. Richardson, D.~Shiers, and K.~F. Smith.
+\newblock Improved experimental limit on the electric dipole moment of the
+  neutron.
+\newblock {\em Phys. Rev. Lett.}, 97:131801, Sep 2006.
+
+\bibitem[BdVH{\etalchar{+}}15]{2015_Bsaisou_et_al_Nucleon_EDMs_in_chiral_EFT}
+J.~Bsaisou, J.~de~Vries, C.~Hanhart, S.~Liebig, Ulf-G. Mei{\ss}ner, D.~Minossi,
+  A.~Nogga, and A.~Wirzba.
+\newblock Nuclear electric dipole moments in chiral effective field theory.
+\newblock {\em J. High Energy Phys.}, 2015(3):1--25, Mar 2015.
+
+\bibitem[BGL{\etalchar{+}}14]{2014_Budker_CASPEr_proposal}
+Dmitry Budker, Peter~W. Graham, Micah Ledbetter, Surjeet Rajendran, and
+  Alexander~O. Sushkov.
+\newblock Proposal for a cosmic axion spin precession experiment (casper).
+\newblock {\em Physical Review X}, 4:021030, May 2014.
+
+\bibitem[BKLB10]{2010_Budker_long_Rb_coherence_alpha_olefins}
+M.~V. Balabas, T.~Karaulanov, M.~P. Ledbetter, and D.~Budker.
+\newblock Polarized alkali-metal vapor with minute-long transverse
+  spin-relaxation time.
+\newblock {\em Phys. Rev. Lett.}, 105:070801, Aug 2010.
+
+\bibitem[CDVVW79]{1979_Crewther_et._al._nEDM_from_QCD}
+R.~J. Crewther, P.~Di~Vecchia, G.~Veneziano, and E.~Witten.
+\newblock Chiral estimate of the electric dipole moment of the neutron in
+  quantum chromodynamics.
+\newblock {\em Phys. Lett.}, 88B:123--7, Dec 1979.
+
+\bibitem[CFH{\etalchar{+}}13]{2013_PSI_Hg_antirelaxation_coatings}
+Z.~Chowdhuri, M.~Fertl, M.~Horras, K.~Kirch, J.~Krempel, B.~Lauss,
+  A.~Mtchedlishvili, D.~Rebreyend, S.~Roccia, P.~Schmidt-Wellenburg, and
+  G.~Zsigmond.
+\newblock Experimental study of $^{199}${H}g spin anti-relaxation coatings.
+\newblock {\em Appl. Phys. B}, 115:257--62, Aug 2013.
+
+\bibitem[CGDN]{1997_Italian_low-noise_current_source}
+C.~Ciofi, R.~Gianetti, V.~Dattilo, and B.~Neri.
+\newblock Ultra low noise current sources.
+\newblock In {\em IEEE Instrumentation and Measurement Technology Conference
+  Proceedings}, pages 1486--9. IEEE, May.
+
+\bibitem[Cli06]{ClineNotes}
+J.M. Cline.
+\newblock Baryogenesis.
+\newblock arXiv:hep-ph/0609145v3, Nov 2006.
+
+\bibitem[CLPRM10]{2010_EDM_Baryogenesis}
+V.~Cirigliano, Yingchuan Li, S.~Profumo, and M.~J. Ramsey-Musolf.
+\newblock {MSSM} baryogenesis and electric dipole moments: an update on the
+  phenomenology.
+\newblock {\em Journal of High Energy Physics}, 2010(1):1--23, Jan 2010.
+
+\bibitem[Com91]{1991_Commins_Geometric_Phase}
+E.~D. Commins.
+\newblock Berry’s geometric phase and motional fields.
+\newblock {\em Am. J. Phys.}, 59(12):1077–1080, Dec 1991.
+
+\bibitem[CRM15]{2015_Chupp_Xe_EDM_Motivation}
+T.~Chupp and M.~Ramsey-Musolf.
+\newblock Electric dipole moments: A global analysis.
+\newblock {\em Phys. Rev. C}, 91(3):035502, Mar 2015.
+
+\bibitem[DFGK02]{2002_Dzuba_et._al._EDMvsSM}
+V.~A. Dzuba, V.~V. Flambaum, J.~S.~M. Ginges, and M.~G. Kozlov.
+\newblock Electric dipole moments of {H}g, {X}e, {R}n, {R}a, {P}u, and {T}l{F}
+  induced by the nuclear {S}chiff moment and limits on time-reversal violating
+  interactions.
+\newblock {\em Phys. Rev. A}, 66:012111, Jul 2002.
+
+\bibitem[DFP09]{2009_Dzuba_Flambaum_Porsev_EDMvSM}
+V.~A. Dzuba, V.~V. Flambaum, and S.~G. Porsev.
+\newblock Calculation of ({P},{T})-odd electric dipole moments for the
+  diamagnetic atoms $^{129}${X}e, $^{171}${Y}b, $^{199}${H}g, $^{211}${R}n, and
+  $^{225}${R}a.
+\newblock {\em Phys. Rev. A}, 80, Sep 2009.
+
+\bibitem[dJE10]{2005_de_Jesus_and_Engel_Hg_Schiff_Moment}
+J.~H. de~Jesus and J.~Engel.
+\newblock Time-reversal-violating {S}chiff moment of $^{199}$hg.
+\newblock {\em Phys. Rev. C}, 72, 2010.
+
+\bibitem[DS03]{2003_Dmitriev_and_Sen'kov_Hg_Schiff_Moment}
+V.~F. Dmitriev and R.~A. Sen'kov.
+\newblock Schiff moment of the mercury nucleus and the proton dipole moment.
+\newblock {\em Phys. Rev. Lett.}, 91:212303, Nov 2003.
+
+\bibitem[DSA05]{2005_Dmitriev_et._al._Core_Polarization_in_NSM}
+V.~F. Dmitriev, R.~A. Sen'kov, and N.~Auerbach.
+\newblock Effects of core polarization on the nuclear schiff moment.
+\newblock {\em Phys. Rev. C}, 71:035501, Mar 2005.
+
+\bibitem[dVMWL15]{2015_deVries_Mereghetti_Walker_CP_violation_in_CPT}
+J.~de~Vries, E.~Mereghetti, and A.~Walker-Loud.
+\newblock Baryon mass splittings and strong $\mathit{CP}$ violation in su(3)
+  chiral perturbation theory.
+\newblock {\em Phys. Rev. C}, 92:045201, Oct 2015.
+
+\bibitem[ERMvK13]{2013_Engel_et_al_EDM_review}
+Jonathan Engel, Michael~J. Ramsey-Musolf, and U.~van Kolck.
+\newblock Electric dipole moments of nucleons, nuclei, and atoms: The standard
+  model and beyond.
+\newblock {\em Progress in Particle and Nuclear Physics}, 71:21--74, 2013.
+
+\bibitem[FHPW61]{1961_Franken_SHG}
+P.A. Franken, A.E. Hill, C.W. Peters, and G.~Weinreich.
+\newblock Generation of optical harmonics.
+\newblock {\em Phys. Rev. Lett.}, 7(4):118--9, Aug 1961.
+
+\bibitem[FK85]{1985_Flambaum_Khriplovich_eEDM_bound}
+V.~V. Flambaum and I.~B. Khriplovich.
+\newblock New bounds on the electric dipole moment of the electron and on
+  $t$-odd electron-nucleon coupling.
+\newblock {\em Sov. Phys. JETP}, 62:872, Nov 1985.
+
+\bibitem[Foo05]{Foot}
+Christopher~J. Foot.
+\newblock {\em Atomic Physics}.
+\newblock Oxford University Press, 2005.
+
+\bibitem[GCLH16]{2016_Hg_EDM}
+B.~Graner, Y.~Chen, E.G. Lindahl, and B.R. Heckel.
+\newblock Reduced limit on the permanent electric dipole moment of
+  $^{199}${H}g.
+\newblock {\em Phys. Review Lett.}, 116:161601--5, Apr 2016.
+
+\bibitem[GF04]{2004_Ginges_Flambaum_Fund._Symmetries_in_Atoms}
+J.~S.~M. Ginges and V.~V. Flambaum.
+\newblock Violations of fundamental symmetries in atoms and tests of
+  unification theories of elementary particles.
+\newblock {\em Physics Reports}, 397:63--154, Mar 2004.
+
+\bibitem[GHM{\etalchar{+}}15]{2015_Guo_et_al_nEDM_from_lattice_QCD}
+F.-K. Guo, R.~Horsley, U.-G. Mei{\ss}ner, Y.~Nakamura, H.~Perlt, P.~E.~L.
+  Rakow, G.~Schierholz, A.~Schiller, and J.~M. Zanotti.
+\newblock Electric dipole moment of the neutron from 2 + 1 flavor lattice qcd.
+\newblock {\em Phys. Rev. Lett.}, 115:062001, Aug 2015.
+
+\bibitem[GR13]{2013_Graham_and_Rajendran_Direct_ALP_Detection}
+Peter~W. Graham and Surjeet Rajendran.
+\newblock New observables for direct detection of axion dark matter.
+\newblock {\em Physical Review D}, 88:035023, Aug 2013.
+
+\bibitem[Gri05]{Griffith}
+William~Clark Griffith.
+\newblock {\em Limiting {CP} Violation Through a Search for a Permanent
+  Electric Dipole Moment of Mercury 199 Atoms}.
+\newblock PhD thesis, University of Washington, 2005.
+
+\bibitem[GSL{\etalchar{+}}09]{2009_Hg_EDM}
+W.C. Griffith, M.D. Swallows, T.H. Loftus, M.V. Romalis, B.R. Heckel, and E.N.
+  Fortson.
+\newblock Improved limit on the permanent electric dipole moment of
+  $^{199}${H}g.
+\newblock {\em Phys. Review Lett.}, 102:101601--4, Mar 2009.
+
+\bibitem[HKJMS88]{Stark_Shift_expression}
+L.~R. Hunter, D.~Krause~Jr., S.~Murthy, and T.~W. Sung.
+\newblock Precision measurement of the stark shift of the cesium d lines.
+\newblock {\em Phys. Rev. A}, 37:3283--3292, May 1988.
+
+\bibitem[HKS{\etalchar{+}}11]{2011_YbF_EDM}
+J.~J. Hudson, D.~M. Kara, I.~J. Smallman, B.~E. Sauer, M.~R. Tarbutt, and E.~A.
+  Hinds.
+\newblock Improved measurement of the shape of the electron.
+\newblock {\em Nature}, 473:493--496, May 2011.
+
+\bibitem[HM67]{1967_Optical_pumping_light_shifts}
+W.~'Happer and B.S. Mathur.
+\newblock Effective operator formalism in optical pumping.
+\newblock {\em Phys. Rev.}, 163:12, 1967.
+
+\bibitem[HR00]{2000_Hg_Stark_Shift}
+D.~M. Harber and M.~V. Romalis.
+\newblock Measurement of the scalar stark shift of the $6^1s_0 \rightarrow 6
+  ^3p_1$ transition in {H}g.
+\newblock {\em Phys. Rev. A}, 63:013402, Nov 2000.
+
+\bibitem[Jac99]{Jackson}
+John~D. Jackson.
+\newblock {\em Classical Electrodynamics}.
+\newblock Wiley, 1999.
+
+\bibitem[Kim05]{Kimball}
+Derek~Forrest Kimball.
+\newblock {\em Nonlinear Magneto-Optical Rotation with Frequency-Modulated
+  Light}.
+\newblock PhD thesis, University of California, Berkeley, 2005.
+
+\bibitem[KL97]{Khriplovich_Lamoreaux}
+I.~B. Khriplovich and S.~K. Lamoreaux.
+\newblock {\em CP Violation Without Strangeness}.
+\newblock Springer-Verlag, 1997.
+
+\bibitem[LAC{\etalchar{+}}08]{2008_Latha_et_al_Core_Polarization_EDM}
+K.~V.~P. Latha, Dilip Angom, Rajat~K Chaudhuri, B~P Das, and Debashis
+  Mukherjee.
+\newblock Core polarization in coupled-cluster theory induced by a parity and
+  time-reversal violating interaction.
+\newblock {\em J. Phys. B}, 41(3):035005, 2008.
+
+\bibitem[LADM09]{2009_Latha_et_al_Hg_EDM}
+K.~V.~P. Latha, D.~Angom, B.~P. Das, and D.~Mukherjee.
+\newblock Probing {CP} violation with the electric dipole moment of atomic
+  mercury.
+\newblock {\em Phys. Rev. Lett.}, 103:083001, Aug 2009.
+
+\bibitem[LADM15]{2015_Latha_et_al_Hg_EDM_Correction}
+K.~V.~P. Latha, D.~Angom, B.~P. Das, and D.~Mukherjee.
+\newblock Erratum: Probing {CP} violation with the electric dipole moment of
+  atomic mercury.
+\newblock {\em Phys. Rev. Lett.}, 115:059902(E), Jul 2015.
+
+\bibitem[LG05]{2005_Lamoreaux_and_Golub_nEDM_geometric_phase}
+S.~K. Lamoreaux and R.~Golub.
+\newblock Detailed discussion of a linear electric field frequency shift
+  induced in confined gases by a magnetic field gradient: Implications for
+  neutron electric-dipole-moment experiments.
+\newblock {\em Phys. Rev. A}, 71:032104, Mar 2005.
+
+\bibitem[LRMH{\etalchar{+}}07]{2007_Liu_et._al._Schiff_Theorem_and_Corrections}
+C.-P. Liu, J.~Ramsey-Musolf, W.~C. Haxton, R.~G.~E. Timmermans, and A.~E.~L.
+  Dieperink.
+\newblock Atomic electric dipole moments: The {S}chiff theorem and its
+  corrections.
+\newblock {\em Phys. Rev. C}, 76(3), Sep 2007.
+
+\bibitem[LSG{\etalchar{+}}11]{2011_Hg_Stark_Interference}
+T.H. Loftus, M.D. Swallows, W.C. Griffith, M.V. Romalis, B.R. Heckel, and E.N.
+  Fortson.
+\newblock Measurement of linear stark interference in $^{199}${H}g.
+\newblock {\em Phys. Review Lett.}, 102:253002--4, Jun 2011.
+
+\bibitem[MP85]{1985_Martensson_C_T_calc}
+Ann-Marie M\aa{}rtensson-Pendrill.
+\newblock Calculation of a $p$- and $t$-nonconserving weak interaction in xe
+  and hg with many-body perturbation theory.
+\newblock {\em Phys. Rev. Lett.}, 54:1153--5, Mar 1985.
+
+\bibitem[MP{\"O}87]{1987_Martensson_Oster_eEDM}
+Ann-Marie M\aa{}rtensson-Pendrill and Per {\"O}ster.
+\newblock Calculations of atomic electric dipole moments.
+\newblock {\em Phys. Scr.}, 36(3):444, 1987.
+
+\bibitem[Nag10]{Nagourney}
+Warren Nagourney.
+\newblock {\em Quantum Electronics for Atomic Physics}.
+\newblock Oxford University Press, 2010.
+
+\bibitem[New11]{New}
+Geoffrey New.
+\newblock {\em Introduction to Nonlinear Optics}.
+\newblock Cambridge University Press, 2011.
+
+\bibitem[PAA{\etalchar{+}}15]{2015_ILL_nEDM_gravity_correction}
+J.~M. Pendlebury, S.~Afach, N.~J. Ayres, C.~A. Baker, G.~Ban, G.~Bison,
+  K.~Bodek, M.~Burghoff, P.~Geltenbort, K.~Green, W.~C. Griffith, M.~van~der
+  Grinten, Z.~D. Gruji\ifmmode~\acute{c}\else \'{c}\fi{}, P.~G. Harris,
+  V.~H\'elaine, P.~Iaydjiev, S.~N. Ivanov, M.~Kasprzak, Y.~Kermaidic, K.~Kirch,
+  H.-C. Koch, S.~Komposch, A.~Kozela, J.~Krempel, B.~Lauss, T.~Lefort,
+  Y.~Lemi\`ere, D.~J.~R. May, M.~Musgrave, O.~Naviliat-Cuncic, F.~M. Piegsa,
+  G.~Pignol, P.~N. Prashanth, G.~Qu\'em\'ener, M.~Rawlik, D.~Rebreyend, J.~D.
+  Richardson, D.~Ries, S.~Roccia, D.~Rozpedzik, A.~Schnabel,
+  P.~Schmidt-Wellenburg, N.~Severijns, D.~Shiers, J.~A. Thorne, A.~Weis, O.~J.
+  Winston, E.~Wursten, J.~Zejma, and G.~Zsigmond.
+\newblock Revised experimental upper limit on the electric dipole moment of the
+  neutron.
+\newblock {\em Phys. Rev. D}, 92:092003, Nov 2015.
+
+\bibitem[PDK{\etalchar{+}}15]{2015_Ra_EDM}
+R.~H. Parker, M.~R. Dietrich, M.~R. Kalita, N.~D. Lemke, K.~G. Bailey,
+  M.~Bishof, J.~P. Greene, R.~J. Holt, W.~Korsch, Z.-T. Lu, P.~Mueller, T.~P.
+  O'Connor, and J.T. Singh.
+\newblock First measurement of the atomic electric dipole moment of
+  $^{225}${R}a.
+\newblock {\em Phys. Rev. Lett.}, 114:233002, Jun 2015.
+
+\bibitem[PFTT88]{NumericalRecipes}
+William~H. Press, Brian~P. Flannery, Saul~A. Teukolsky, and Vetterling~William
+  T.
+\newblock {\em Numerical Recipes in C: The Art of Scientific Computing}.
+\newblock Cambridge University Press, 1988.
+
+\bibitem[PHS{\etalchar{+}}04]{2004_Geometric_Phase_ILL_nEDM}
+J.~M. Pendlebury, W.~Heil, Yu. Sobolev, P.~G. Harris, J.~D. Richardson, R.~J.
+  Baskin, D.~D. Doyle, P.~Geltenbort, K.~Green, M.~G.~D. van~der Grinten, P.~S.
+  Iaydjiev, S.~N. Ivanov, D.~J.~R. May, and K.~F. Smith.
+\newblock Geometric-phase-induced false electric dipole moment signals for
+  particles in traps.
+\newblock {\em Phys. Rev. A}, 70:032102, Sep 2004.
+
+\bibitem[Pos02]{2002_Pospelov_quark_chromo_EDM}
+Maxim Pospelov.
+\newblock Best values for the cp-odd meson–nucleon couplings from
+  supersymmetry.
+\newblock {\em Phys. Lett. B}, 530(1–4):123 -- 128, 2002.
+
+\bibitem[PQ77]{1977_Peccei_Quinn}
+R.D. Peccei and Helen~R. Quinn.
+\newblock {CP} conservation in the presence of pseudoparticles.
+\newblock {\em Phys. Rev. Lett.}, 38:1440--3, Jun 1977.
+
+\bibitem[PR50]{1950_Purcell_Ramsey_EDM}
+E.~M. Purcell and N.~F. Ramsey.
+\newblock On the possibility of electric dipole moments for elementary
+  particles and nuclei.
+\newblock {\em Phys. Rev.}, 78:807, Jun 1950.
+
+\bibitem[RCSD02]{2002_Tl_EDM}
+B.~C. Regan, Eugene~D. Commins, Christian~J. Schmidt, and David DeMille.
+\newblock New limit on the electron electric dipole moment.
+\newblock {\em Phys. Rev. Lett.}, 88:071805, Feb 2002.
+
+\bibitem[RGJB14]{2014_Radziute_et_al_DHF_EDM}
+Liama Rad{\v z}i{\=u}t{\.e}, Gediminas Gaigalas, Per J{\"o}nsson, and Jacek
+  Biero{\'n}.
+\newblock Multiconfiguration {D}irac-{H}artree-{F}ock calculations of atomic
+  electric dipole moments of $^{225}${R}a, $^{199}${H}g, and $^{171}${Y}b.
+\newblock {\em Phys. Rev. A}, 90, Jul 2014.
+
+\bibitem[RGJF01]{2001_Hg_EDM}
+M.~V. Romalis, W.~C. Griffith, J.~P. Jacobs, and E.~N. Fortson.
+\newblock New limit on the permanent electric dipole moment of $^{199}${H}g.
+\newblock {\em Phys. Rev. Lett.}, 86:2505--8, Mar 2001.
+
+\bibitem[RL04]{2004_Romalis_Lin_Hg_relaxation}
+M.V. Romalis and L.~Lin.
+\newblock Surface nuclear spin relaxation of $^{199}${H}g.
+\newblock {\em Journal of Chemical Physics}, 120(3):1511--5, Jan 2004.
+
+\bibitem[RvB00]{2005_Rosenberg_axion_review}
+Leslie~J. Rosenberg and Karl~A. van Bibber.
+\newblock Searches for invisible axions.
+\newblock {\em Physics Reports}, 325:1--39, 2000.
+
+\bibitem[SAF97]{1997_Spevak_et._al._EDM_enhancement}
+V.~Spevak, N.~Auerbach, and V.~V. Flambaum.
+\newblock Enhanced $t$-odd, $p$-odd electromagnetic moments in reflection
+  asymmetric nuclei.
+\newblock {\em Phys. Rev. C}, 56(1357), Sep 1997.
+
+\bibitem[SAFZ08]{2008_Schiff_Theorem_Rederivation}
+R.~A. Sen'kov, N.~Auerbach, V.~V. Flambaum, and V.~G. Zelevinsky.
+\newblock Reexamination of the {S}chiff theorem.
+\newblock {\em Phys. Rev. A}, 77(1), Jan 2008.
+
+\bibitem[Sak67]{1967_Sakharov}
+A.~D. Sakharov.
+\newblock Violation of {CP} invariance, {C} asymmetry, and baryon asymmetry of
+  the universe.
+\newblock {\em Sov. Phys., JETP Lett.}, 5:24, 1967.
+
+\bibitem[Sak94]{Sakurai}
+J.~J. Sakurai.
+\newblock {\em Modern Quantum Mechanics}.
+\newblock Addison-Wesley, 1994.
+
+\bibitem[Sch63]{1963_Schiff}
+L.~I. Schiff.
+\newblock Measurability of nuclear electric dipole moments.
+\newblock {\em Phys. Rev.}, 132:2194--200, Dec 1963.
+
+\bibitem[SF14]{2014_Flambaum_axion}
+Yevgeny~P. Stadnik and V.~Flambaum, Victor.
+\newblock New atomic probes for dark matter detection: Axions, axion-like
+  particles and topological defects.
+\newblock {\em ArXiv Preprint}, Sep 2014.
+
+\bibitem[SFK86]{1984_Sushkov_et._al._P_T_odd_atomic_experiments}
+O.~P. Sushkov, V.~V. Flambaum, and I.~B. Khriplovich.
+\newblock Possibility of investigating {P}- and {T}-odd nuclear forces in
+  atomic and molecular experiments.
+\newblock {\em Zh. Eksp. Teor. Fiz.}, 87:1521--40, Nov 1986.
+
+\bibitem[SLG{\etalchar{+}}13]{2013_Hg_EDM_PRA}
+M.D. Swallows, T.H. Loftus, W.C. Griffith, B.R. Heckel, E.N. Fortson, and M.V.
+  Romalis.
+\newblock Techniques used to search for a permanent electric dipole moment of
+  the ${}^{199}$hg atom and the implications for $\mathit{CP}$ violation.
+\newblock {\em Phys. Rev. A}, 87:012102, Jan 2013.
+
+\bibitem[SPR57]{1957_Smith_Purcell_Ramsey_nEDM}
+J.~H. Smith, E.~M. Purcell, and N.~F. Ramsey.
+\newblock Experimental limit to the electric dipole moment of the neutron.
+\newblock {\em Phys. Rev.}, 108:120--2, Oct 1957.
+
+\bibitem[SS15]{2015_Singh_and_Sahoo_Hg_Schiff_Moment}
+Yashpal Singh and B.~K. Sahoo.
+\newblock Rigorous limits on the hadronic and semileptonic {CP}-violating
+  coupling constants from the electric dipole moment of $^{199}${H}g.
+\newblock {\em Phys. Rev. A}, 97(3):030501, Mar 2015.
+
+\bibitem[Swa07]{Swallows}
+Matthew Swallows.
+\newblock {\em A search for the permanent electric dipole moment of
+  mercury-199}.
+\newblock PhD thesis, University of Washington, 2007.
+
+\bibitem[UDBH98]{1998_HgPhotonucleation}
+H.~Uchtmann, R.~Dettmer, S.D. Baranovskii, and F.~Hensel.
+\newblock Photoinduced nucleation in supersaturated mercury vapor.
+\newblock {\em Journal of Chemical Physics}, 108(23):9775--82, Jun 1998.
+
+\bibitem[URH91]{1991_Hg_Ionization_Potential}
+H.~Uchtmann, K.~Rademann, and F.~Hensel.
+\newblock Metal-nonmetal transition and homogeneous nucleation of mercury
+  vapour.
+\newblock {\em Annalen der Physik}, 503(1-3):207--214, 1991.
+
+\bibitem[Wei78]{1978_Weinberg_axion}
+Steven Weinberg.
+\newblock A new light boson?
+\newblock {\em Phys. Rev. Lett.}, 40(5):223--6, Jan 1978.
+
+\bibitem[Wil78]{1978_Wilczek_axion}
+F.~Wilczek.
+\newblock Problem of strong {P} and {T} invariance in the presence of
+  instantons.
+\newblock {\em Phys. Rev. Lett.}, 40(5):279--82, Jan 1978.
+
+\end{thebibliography}

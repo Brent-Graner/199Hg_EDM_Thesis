@@ -1,0 +1,92 @@
+\contentsline {chapter}{\@textofLoF }{iv}
+\contentsline {chapter}{\@textofLoT }{vi}
+\contentsline {chapter}{\numberline {\@textofChapter \ 1:}Introduction}{1}
+\contentsline {section}{\numberline {1.1}The strong CP problem}{1}
+\contentsline {section}{\numberline {1.2}CP violation and baryogenesis: the Sakharov conditions}{2}
+\contentsline {section}{\numberline {1.3}EDMs and fundamental symmetries}{3}
+\contentsline {subsection}{\numberline {1.3.1}Symmetry violation and EDMs of fundamental particles}{3}
+\contentsline {subsection}{\numberline {1.3.2}Schiff's Theorem and nonzero atomic EDMs}{5}
+\contentsline {subsection}{\numberline {1.3.3}P-odd, T-odd nuclear moments leading to EDMs}{5}
+\contentsline {section}{\numberline {1.4}Summary of ongoing EDM experiments}{8}
+\contentsline {subsection}{\numberline {1.4.1}Diamagnetic atom experiments}{8}
+\contentsline {subsection}{\numberline {1.4.2}Polar molecule experiments}{8}
+\contentsline {subsection}{\numberline {1.4.3}Ultracold neutron experiments}{8}
+\contentsline {chapter}{\numberline {\@textofChapter \ 2:}Atomic Interactions With Fields and Radiation: What the atoms are actually doing}{10}
+\contentsline {section}{\numberline {2.1}EDM Hamiltonian and precession frequency}{10}
+\contentsline {section}{\numberline {2.2}Transverse optical pumping}{10}
+\contentsline {section}{\numberline {2.3}Faraday rotation}{12}
+\contentsline {section}{\numberline {2.4}Precession with $\mathbf {B}_0 \cdot \mathbf {k} \not =0 $}{13}
+\contentsline {section}{\numberline {2.5}DC Stark effect}{14}
+\contentsline {section}{\numberline {2.6}Scalar and vector light shifts}{15}
+\contentsline {section}{\numberline {2.7}Stark interference}{16}
+\contentsline {chapter}{\numberline {\@textofChapter \ 3:}Methodology}{17}
+\contentsline {section}{\numberline {3.1}Optical setup}{17}
+\contentsline {subsection}{\numberline {3.1.1}UV laser light generation}{17}
+\contentsline {subsection}{\numberline {3.1.2}Optical harmonic generation}{17}
+\contentsline {subsection}{\numberline {3.1.3}Frequency doubling cavities}{18}
+\contentsline {subsection}{\numberline {3.1.4}Feedback control systems}{20}
+\contentsline {subsection}{\numberline {3.1.5}Phase matching}{20}
+\contentsline {subsection}{\numberline {3.1.6}Laser wavelength locking}{21}
+\contentsline {subsection}{\numberline {3.1.7}Optical chopper}{22}
+\contentsline {section}{\numberline {3.2}Cell vessel construction}{22}
+\contentsline {section}{\numberline {3.3}Magnetic field generation and shielding}{24}
+\contentsline {subsection}{\numberline {3.3.1}Magnet coil}{24}
+\contentsline {subsection}{\numberline {3.3.2}Low-noise current supply}{27}
+\contentsline {subsection}{\numberline {3.3.3}Magnetic shielding}{29}
+\contentsline {section}{\numberline {3.4}Leakage current measurements}{29}
+\contentsline {subsection}{\numberline {3.4.1}Groundplane coating and current collection}{30}
+\contentsline {subsection}{\numberline {3.4.2}Electrometer circuits}{31}
+\contentsline {subsection}{\numberline {3.4.3}Airflow}{31}
+\contentsline {section}{\numberline {3.5}Signal acquisition and conditioning}{32}
+\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Mercury Vapor Cells: Black magic in action}{35}
+\contentsline {section}{\numberline {4.1}Materials and fabrication}{35}
+\contentsline {subsection}{\numberline {4.1.1}Glass preparation and assembly}{35}
+\contentsline {subsection}{\numberline {4.1.2}Filling and vacuum system work}{37}
+\contentsline {section}{\numberline {4.2}Performance}{38}
+\contentsline {section}{\numberline {4.3}Surface coatings}{39}
+\contentsline {section}{\numberline {4.4}Excess Hg and polarization lifetime}{40}
+\contentsline {section}{\numberline {4.5}Resonant UV as droplet catalyst}{41}
+\contentsline {chapter}{\numberline {\@textofChapter \ 5:}Data Analysis: How we got to an answer}{44}
+\contentsline {section}{\numberline {5.1}Data filtering}{44}
+\contentsline {section}{\numberline {5.2}Individual cell frequency fits}{46}
+\contentsline {section}{\numberline {5.3}Phase difference measurements}{46}
+\contentsline {section}{\numberline {5.4}Frequency difference from $\Delta \phi $}{47}
+\contentsline {section}{\numberline {5.5}HV correlation}{48}
+\contentsline {section}{\numberline {5.6}Shot noise limit}{50}
+\contentsline {section}{\numberline {5.7}Blind data cuts}{51}
+\contentsline {chapter}{\numberline {\@textofChapter \ 6:}Statistical Fluctuations and Noise Sources: What's holding us back?}{53}
+\contentsline {section}{\numberline {6.1}Statistical uncertainty}{53}
+\contentsline {section}{\numberline {6.2}Timing uncertainty}{54}
+\contentsline {section}{\numberline {6.3}Light shift noise and vertical magnetization}{55}
+\contentsline {section}{\numberline {6.4}Conductor field noise}{56}
+\contentsline {section}{\numberline {6.5}Beam and table movement}{56}
+\contentsline {section}{\numberline {6.6}Mercury migration}{57}
+\contentsline {chapter}{\numberline {\@textofChapter \ 7:}Systematic Uncertainties: Maybe we're totally wrong}{58}
+\contentsline {section}{\numberline {7.1}Magnetic field environment and cell motion}{58}
+\contentsline {subsection}{\numberline {7.1.1}Magnetic contaminants}{58}
+\contentsline {subsection}{\numberline {7.1.2}B and E field drift}{59}
+\contentsline {subsection}{\numberline {7.1.3}Cell motion}{60}
+\contentsline {subsubsection}{Wedged cell}{61}
+\contentsline {subsubsection}{Dependence on $\mathbf {B_0}$ direction}{62}
+\contentsline {subsubsection}{Field gradient measurements}{65}
+\contentsline {section}{\numberline {7.2}Leakage currents}{70}
+\contentsline {section}{\numberline {7.3}$|\mathbf {E}|$ effects}{71}
+\contentsline {section}{\numberline {7.4}Parameter correlations}{73}
+\contentsline {section}{\numberline {7.5}Motional B fields}{74}
+\contentsline {section}{\numberline {7.6}Charging currents}{77}
+\contentsline {section}{\numberline {7.7}Geometric phase (Berry's phase)}{78}
+\contentsline {section}{\numberline {7.8}Stark interference}{80}
+\contentsline {section}{\numberline {7.9}Final result}{81}
+\contentsline {chapter}{\numberline {\@textofChapter \ 8:}Theoretical Interpretation of EDM Limit: What is the meaning of this?}{83}
+\contentsline {section}{\numberline {8.1}Schiff moment limits from atomic physics}{83}
+\contentsline {section}{\numberline {8.2}Schiff moment parameterization from nuclear physics}{83}
+\contentsline {section}{\numberline {8.3}Nucleon EDMs}{85}
+\contentsline {section}{\numberline {8.4}Limits on QCD parameters}{85}
+\contentsline {subsection}{\numberline {8.4.1}$\mathaccentV {bar}016{\theta }_{QCD}$}{87}
+\contentsline {subsection}{\numberline {8.4.2}Quark chromo-EDMs}{87}
+\contentsline {section}{\numberline {8.5}Limits on semi-leptonic interactions}{88}
+\contentsline {section}{\numberline {8.6}Electron EDM}{88}
+\contentsline {section}{\numberline {8.7}Conclusion}{89}
+\contentsline {chapter}{\@textofBIB }{91}
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Cell Motion in an n-th order field gradient}{97}
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Data Tables and Cuts}{99}
