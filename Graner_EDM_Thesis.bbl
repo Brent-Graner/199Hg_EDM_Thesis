@@ -1,6 +1,167 @@
 \newcommand{\etalchar}[1]{$^{#1}$}
 \begin{thebibliography}{CDVVW79}
 
+\bibitem[AAA{\etalchar{+}}01]{2001_Belle_B_meson_CP_violation}
+K.~Abe, K.~Abe, R.~Abe, I.~Adachi, Byoung~Sup Ahn, H.~Aihara, M.~Akatsu,
+  G.~Alimonti, K.~Asai, M.~Asai, Y.~Asano, T.~Aso, V.~Aulchenko, T.~Aushev,
+  A.~M. Bakich, E.~Banas, S.~Behari, P.~K. Behera, D.~Beiline, A.~Bondar,
+  A.~Bozek, T.~E. Browder, B.~C.~K. Casey, P.~Chang, Y.~Chao, K.-F. Chen, B.~G.
+  Cheon, R.~Chistov, S.-K. Choi, Y.~Choi, L.~Y. Dong, J.~Dragic, A.~Drutskoy,
+  S.~Eidelman, V.~Eiges, Y.~Enari, R.~Enomoto, C.~W. Everton, F.~Fang,
+  H.~Fujii, C.~Fukunaga, M.~Fukushima, N.~Gabyshev, A.~Garmash, T.~J. Gershon,
+  A.~Gordon, K.~Gotow, H.~Guler, R.~Guo, J.~Haba, H.~Hamasaki, K.~Hanagaki,
+  F.~Handa, K.~Hara, T.~Hara, N.~C. Hastings, H.~Hayashii, M.~Hazumi, E.~M.
+  Heenan, Y.~Higasino, I.~Higuchi, T.~Higuchi, T.~Hirai, H.~Hirano, T.~Hojo,
+  T.~Hokuue, Y.~Hoshi, K.~Hoshina, S.~R. Hou, W.-S. Hou, S.-C. Hsu, H.-C.
+  Huang, Y.~Igarashi, T.~Iijima, H.~Ikeda, K.~Ikeda, K.~Inami, A.~Ishikawa,
+  H.~Ishino, R.~Itoh, G.~Iwai, H.~Iwasaki, Y.~Iwasaki, D.~J. Jackson,
+  P.~Jalocha, H.~K. Jang, M.~Jones, R.~Kagan, H.~Kakuno, J.~Kaneko, J.~H. Kang,
+  J.~S. Kang, P.~Kapusta, N.~Katayama, H.~Kawai, H.~Kawai, Y.~Kawakami,
+  N.~Kawamura, T.~Kawasaki, H.~Kichimi, D.~W. Kim, Heejong Kim, H.~J. Kim,
+  Hyunwoo Kim, S.~K. Kim, T.~H. Kim, K.~Kinoshita, S.~Kobayashi, S.~Koishi,
+  H.~Konishi, K.~Korotushenko, P.~Krokovny, R.~Kulasiri, S.~Kumar, T.~Kuniya,
+  E.~Kurihara, A.~Kuzmin, Y.-J. Kwon, J.~S. Lange, G.~Leder, M.~H. Lee, S.~H.
+  Lee, C.~Leonidopoulos, Y.-S. Lin, D.~Liventsev, R.-S. Lu, J.~MacNaughton,
+  D.~Marlow, T.~Matsubara, S.~Matsui, S.~Matsumoto, T.~Matsumoto, Y.~Mikami,
+  K.~Misono, K.~Miyabayashi, H.~Miyake, H.~Miyata, L.~C. Moffitt, G.~R.
+  Moloney, G.~F. Moorhead, S.~Mori, T.~Mori, A.~Murakami, T.~Nagamine,
+  Y.~Nagasaka, Y.~Nagashima, T.~Nakadaira, T.~Nakamura, E.~Nakano, M.~Nakao,
+  H.~Nakazawa, J.~W. Nam, Z.~Natkaniec, K.~Neichi, S.~Nishida, O.~Nitoh,
+  S.~Noguchi, T.~Nozaki, S.~Ogawa, T.~Ohshima, Y.~Ohshima, T.~Okabe,
+  T.~Okazaki, S.~Okuno, S.~L. Olsen, H.~Ozaki, P.~Pakhlov, H.~Palka, C.~S.
+  Park, C.~W. Park, H.~Park, L.~S. Peak, M.~Peters, L.~E. Piilonen, E.~Prebys,
+  J.~L. Rodriguez, N.~Root, M.~Rozanska, K.~Rybicki, J.~Ryuko, H.~Sagawa,
+  Y.~Sakai, H.~Sakamoto, M.~Satapathy, A.~Satpathy, S.~Schrenk, S.~Semenov,
+  K.~Senyo, Y.~Settai, M.~E. Sevior, H.~Shibuya, B.~Shwartz, A.~Sidorov,
+  S.~Stani\ifmmode~\check{c}\else \v{c}\fi{}, A.~Sugi, A.~Sugiyama,
+  K.~Sumisawa, T.~Sumiyoshi, J.-I. Suzuki, K.~Suzuki, S.~Suzuki, S.~Y. Suzuki,
+  S.~K. Swain, H.~Tajima, T.~Takahashi, F.~Takasaki, M.~Takita, K.~Tamai,
+  N.~Tamura, J.~Tanaka, M.~Tanaka, G.~N. Taylor, Y.~Teramoto, M.~Tomoto,
+  T.~Tomura, S.~N. Tovey, K.~Trabelsi, T.~Tsuboyama, T.~Tsukamoto, S.~Uehara,
+  K.~Ueno, Y.~Unno, S.~Uno, Y.~Ushiroda, S.~E. Vahsen, K.~E. Varvell, C.~C.
+  Wang, C.~H. Wang, J.~G. Wang, M.-Z. Wang, Y.~Watanabe, E.~Won, B.~D. Yabsley,
+  Y.~Yamada, M.~Yamaga, A.~Yamaguchi, H.~Yamamoto, T.~Yamanaka, Y.~Yamashita,
+  M.~Yamauchi, S.~Yanaka, J.~Yashima, M.~Yokoyama, K.~Yoshida, Y.~Yusa,
+  H.~Yuta, C.~C. Zhang, J.~Zhang, H.~W. Zhao, Y.~Zheng, V.~Zhilich, and
+  D.~\ifmmode~\check{Z}\else \v{Z}\fi{}ontar.
+\newblock Observation of large $\mathit{CP}$ violation in the neutral
+  $\mathit{B}$ meson system.
+\newblock {\em Phys. Rev. Lett.}, 87:091802, Aug 2001.
+
+\bibitem[ABG{\etalchar{+}}01]{2001_BaBar_B_meson_CP_violation}
+B.~Aubert, D.~Boutigny, J.-M. Gaillard, A.~Hicheur, Y.~Karyotakis, J.~P. Lees,
+  P.~Robbe, V.~Tisserand, A.~Palano, G.~P. Chen, J.~C. Chen, N.~D. Qi, G.~Rong,
+  P.~Wang, Y.~S. Zhu, G.~Eigen, P.~L. Reinertsen, B.~Stugu, B.~Abbott, G.~S.
+  Abrams, A.~W. Borgland, A.~B. Breon, D.~N. Brown, J.~Button-Shafer, R.~N.
+  Cahn, A.~R. Clark, M.~S. Gill, A.~V. Gritsan, Y.~Groysman, R.~G. Jacobsen,
+  R.~W. Kadel, J.~Kadyk, L.~T. Kerth, S.~Kluth, Yu.~G. Kolomensky, J.~F. Kral,
+  C.~LeClerc, M.~E. Levi, T.~Liu, G.~Lynch, A.~B. Meyer, M.~Momayezi, P.~J.
+  Oddone, A.~Perazzo, M.~Pripstein, N.~A. Roe, A.~Romosan, M.~T. Ronan, V.~G.
+  Shelkov, A.~V. Telnov, W.~A. Wenzel, M.~S. Zisman, P.~G. Bright-Thomas, T.~J.
+  Harrison, C.~M. Hawkes, D.~J. Knowles, S.~W. O'Neale, R.~C. Penny, A.~T.
+  Watson, N.~K. Watson, T.~Deppermann, K.~Goetzen, H.~Koch, J.~Krug, M.~Kunze,
+  B.~Lewandowski, K.~Peters, H.~Schmuecker, M.~Steinke, J.~C. Andress, N.~R.
+  Barlow, W.~Bhimji, N.~Chevalier, P.~J. Clark, W.~N. Cottingham, N.~De~Groot,
+  N.~Dyce, B.~Foster, J.~D. McFall, D.~Wallom, F.~F. Wilson, K.~Abe, C.~Hearty,
+  T.~S. Mattison, J.~A. McKenna, D.~Thiessen, S.~Jolly, A.~K. McKemey,
+  J.~Tinslay, V.~E. Blinov, A.~D. Bukin, D.~A. Bukin, A.~R. Buzykaev, V.~B.
+  Golubev, V.~N. Ivanchenko, A.~A. Korol, E.~A. Kravchenko, A.~P. Onuchin,
+  A.~A. Salnikov, S.~I. Serednyakov, Yu.~I. Skovpen, V.~I. Telnov, A.~N.
+  Yushkov, D.~Best, A.~J. Lankford, M.~Mandelkern, S.~McMahon, D.~P. Stoker,
+  A.~Ahsan, K.~Arisaka, C.~Buchanan, S.~Chun, J.~G. Branson, D.~B. MacFarlane,
+  S.~Prell, Sh. Rahatlou, G.~Raven, V.~Sharma, C.~Campagnari, B.~Dahmes, P.~A.
+  Hart, N.~Kuznetsova, S.~L. Levy, O.~Long, A.~Lu, J.~D. Richman, W.~Verkerke,
+  M.~Witherell, S.~Yellin, J.~Beringer, D.~E. Dorfan, A.~M. Eisner, A.~Frey,
+  A.~A. Grillo, M.~Grothe, C.~A. Heusch, R.~P. Johnson, W.~Kroeger, W.~S.
+  Lockman, T.~Pulliam, H.~Sadrozinski, T.~Schalk, R.~E. Schmitz, B.~A. Schumm,
+  A.~Seiden, M.~Turri, W.~Walkowiak, D.~C. Williams, M.~G. Wilson, E.~Chen,
+  G.~P. Dubois-Felsmann, A.~Dvoretskii, D.~G. Hitlin, S.~Metzler, J.~Oyang,
+  F.~C. Porter, A.~Ryd, A.~Samuel, M.~Weaver, S.~Yang, R.~Y. Zhu, S.~Devmal,
+  T.~L. Geld, S.~Jayatilleke, G.~Mancinelli, B.~T. Meadows, M.~D. Sokoloff,
+  T.~Barillari, P.~Bloom, M.~O. Dima, S.~Fahey, W.~T. Ford, D.~R. Johnson,
+  U.~Nauenberg, A.~Olivas, H.~Park, P.~Rankin, J.~Roy, S.~Sen, J.~G. Smith,
+  W.~C. van Hoek, D.~L. Wagner, J.~Blouw, J.~L. Harton, M.~Krishnamurthy,
+  A.~Soffer, W.~H. Toki, R.~J. Wilson, J.~Zhang, T.~Brandt, J.~Brose,
+  T.~Colberg, G.~Dahlinger, M.~Dickopp, R.~S. Dubitzky, A.~Hauke, E.~Maly,
+  R.~M\"uller-Pfefferkorn, S.~Otto, K.~R. Schubert, R.~Schwierz, B.~Spaan,
+  L.~Wilden, L.~Behr, D.~Bernard, G.~R. Bonneaud, F.~Brochard, J.~Cohen-Tanugi,
+  S.~Ferrag, E.~Roussot, S.~T'Jampens, Ch. Thiebaux, G.~Vasileiadis,
+  M.~Verderi, A.~Anjomshoaa, R.~Bernet, A.~Khan, D.~Lavin, F.~Muheim,
+  S.~Playfer, J.~E. Swain, M.~Falbo, C.~Borean, C.~Bozzi, S.~Dittongo,
+  M.~Folegani, L.~Piemontese, E.~Treadwell, F.~Anulli, R.~Baldini-Ferroli,
+  A.~Calcaterra, R.~de~Sangro, D.~Falciai, G.~Finocchiaro, P.~Patteri, I.~M.
+  Peruzzi, M.~Piccolo, Y.~Xie, A.~Zallo, S.~Bagnasco, A.~Buzzo, R.~Contri,
+  G.~Crosetti, P.~Fabbricatore, S.~Farinon, M.~Lo~Vetere, M.~Macri, M.~R.
+  Monge, R.~Musenich, M.~Pallavicini, R.~Parodi, S.~Passaggio, F.~C. Pastore,
+  C.~Patrignani, M.~G. Pia, C.~Priano, E.~Robutti, A.~Santroni, M.~Morii,
+  R.~Bartoldus, T.~Dignan, R.~Hamilton, U.~Mallik, J.~Cochran, H.~B. Crawley,
+  P.-A. Fischer, J.~Lamsa, W.~T. Meyer, E.~I. Rosenberg, M.~Benkebil,
+  G.~Grosdidier, C.~Hast, A.~H\"ocker, H.~M. Lacker, S.~Laplace, V.~Lepeltier,
+  A.~M. Lutz, S.~Plaszczynski, M.~H. Schune, S.~Trincaz-Duvoid, A.~Valassi,
+  G.~Wormser, R.~M. Bionta, V.~Brigljevi\ifmmode~\acute{c}\else \'{c}\fi{},
+  D.~J. Lange, M.~Mugge, X.~Shi, K.~van Bibber, T.~J. Wenaus, D.~M. Wright,
+  C.~R. Wuest, M.~Carroll, J.~R. Fry, E.~Gabathuler, R.~Gamet, M.~George,
+  M.~Kay, D.~J. Payne, R.~J. Sloane, C.~Touramanis, M.~L. Aspinwall, D.~A.
+  Bowerman, P.~D. Dauncey, U.~Egede, I.~Eschrich, N.~J.~W. Gunawardane, J.~A.
+  Nash, P.~Sanders, D.~Smith, D.~E. Azzopardi, J.~J. Back, P.~Dixon, P.~F.
+  Harrison, R.~J.~L. Potter, H.~W. Shorthouse, P.~Strother, P.~B. Vidal, M.~I.
+  Williams, G.~Cowan, S.~George, M.~G. Green, A.~Kurup, C.~E. Marker,
+  P.~McGrath, T.~R. McMahon, S.~Ricciardi, F.~Salvatore, I.~Scott, G.~Vaitsas,
+  D.~Brown, C.~L. Davis, J.~Allison, R.~J. Barlow, J.~T. Boyd, A.~C. Forti,
+  J.~Fullwood, F.~Jackson, G.~D. Lafferty, N.~Savvas, E.~T. Simopoulos, J.~H.
+  Weatherall, A.~Farbin, A.~Jawahery, V.~Lillard, J.~Olsen, D.~A. Roberts,
+  J.~R. Schieck, G.~Blaylock, C.~Dallapiccola, K.~T. Flood, S.~S. Hertzbach,
+  R.~Kofler, T.~B. Moore, H.~Staengle, S.~Willocq, B.~Brau, R.~Cowan,
+  G.~Sciolla, F.~Taylor, R.~K. Yamamoto, M.~Milek, P.~M. Patel, J.~Trischuk,
+  F.~Lanni, F.~Palombo, J.~M. Bauer, M.~Booke, L.~Cremaldi, V.~Eschenburg,
+  R.~Kroeger, J.~Reidy, D.~A. Sanders, D.~J. Summers, J.~P. Martin, J.~Y. Nief,
+  R.~Seitz, P.~Taras, V.~Zacek, H.~Nicholson, C.~S. Sutton, C.~Cartaro,
+  N.~Cavallo, G.~De~Nardo, F.~Fabozzi, C.~Gatto, L.~Lista, P.~Paolucci,
+  D.~Piccolo, C.~Sciacca, J.~M. LoSecco, J.~R.~G. Alsmiller, T.~A. Gabriel,
+  T.~Handler, J.~Brau, R.~Frey, M.~Iwasaki, N.~B. Sinev, D.~Strom,
+  F.~Colecchia, F.~Dal~Corso, A.~Dorigo, F.~Galeazzi, M.~Margoni, G.~Michelon,
+  M.~Morandin, M.~Posocco, M.~Rotondo, F.~Simonetto, R.~Stroili, E.~Torassa,
+  C.~Voci, M.~Benayoun, H.~Briand, J.~Chauveau, P.~David, Ch. de~la
+  Vaissi\`ere, L.~Del~Buono, O.~Hamon, F.~Le~Diberder, Ph. Leruste, J.~Lory,
+  L.~Roos, J.~Stark, S.~Versill\'e, P.~F. Manfredi, V.~Re, V.~Speziali, E.~D.
+  Frank, L.~Gladney, Q.~H. Guo, J.~H. Panetta, C.~Angelini, G.~Batignani,
+  S.~Bettarini, M.~Bondioli, M.~Carpinelli, F.~Forti, M.~A. Giorgi, A.~Lusiani,
+  F.~Martinez-Vidal, M.~Morganti, N.~Neri, E.~Paoloni, M.~Rama, G.~Rizzo,
+  F.~Sandrelli, G.~Simi, G.~Triggiani, J.~Walsh, M.~Haire, D.~Judd, K.~Paick,
+  L.~Turnbull, D.~E. Wagoner, J.~Albert, C.~Bula, P.~Elmer, C.~Lu, K.~T.
+  McDonald, V.~Miftakov, S.~F. Schaffner, A.~J.~S. Smith, A.~Tumanov, E.~W.
+  Varnes, G.~Cavoto, D.~del Re, R.~Faccini, F.~Ferrarotto, F.~Ferroni,
+  K.~Fratini, E.~Lamanna, E.~Leonardi, M.~A. Mazzoni, S.~Morganti, G.~Piredda,
+  F.~Safai~Tehrani, M.~Serra, C.~Voena, S.~Christ, R.~Waldi, T.~Adye,
+  B.~Franek, N.~I. Geddes, G.~P. Gopal, S.~M. Xella, R.~Aleksan,
+  G.~De~Domenico, S.~Emery, A.~Gaidot, S.~F. Ganzhur, P.-F. Giraud, G.~Hamel~de
+  Monchenault, W.~Kozanecki, M.~Langer, G.~W. London, B.~Mayer, B.~Serfass,
+  G.~Vasseur, Ch. Y\`eche, M.~Zito, N.~Copty, M.~V. Purohit, H.~Singh, F.~X.
+  Yumiceva, I.~Adam, P.~L. Anthony, D.~Aston, K.~Baird, J.~P. Berger, E.~Bloom,
+  A.~M. Boyarski, F.~Bulos, G.~Calderini, R.~Claus, M.~R. Convery, D.~P.
+  Coupal, D.~H. Coward, J.~Dorfan, M.~Doser, W.~Dunwoodie, R.~C. Field,
+  T.~Glanzman, G.~L. Godfrey, S.~J. Gowdy, P.~Grosso, T.~Himel, T.~Hryn'ova,
+  M.~E. Huffer, W.~R. Innes, C.~P. Jessop, M.~H. Kelsey, P.~Kim, M.~L. Kocian,
+  U.~Langenegger, D.~W. G.~S. Leith, S.~Luitz, V.~Luth, H.~L. Lynch,
+  H.~Marsiske, S.~Menke, R.~Messner, K.~C. Moffeit, R.~Mount, D.~R. Muller,
+  C.~P. O'Grady, M.~Perl, S.~Petrak, H.~Quinn, B.~N. Ratcliff, S.~H. Robertson,
+  L.~S. Rochester, A.~Roodman, T.~Schietinger, R.~H. Schindler, J.~Schwiening,
+  J.~T. Seeman, V.~V. Serbo, A.~Snyder, A.~Soha, S.~M. Spanier, J.~Stelzer,
+  D.~Su, M.~K. Sullivan, H.~A. Tanaka, J.~Va'vra, S.~R. Wagner, A.~J.~R.
+  Weinstein, U.~Wienands, W.~J. Wisniewski, D.~H. Wright, C.~C. Young, P.~R.
+  Burchat, C.~H. Cheng, D.~Kirkby, T.~I. Meyer, C.~Roat, R.~Henderson, W.~Bugg,
+  H.~Cohn, A.~W. Weidemann, J.~M. Izen, I.~Kitayama, X.~C. Lou, M.~Turcotte,
+  F.~Bianchi, M.~Bona, B.~Di~Girolamo, D.~Gamba, A.~Smol, D.~Zanin, L.~Bosisio,
+  G.~Della~Ricca, L.~Lanceri, A.~Pompili, P.~Poropat, G.~Vuagnin, R.~S.
+  Panvini, C.~M. Brown, A.~De~Silva, R.~Kowalewski, J.~M. Roney, H.~R. Band,
+  E.~Charles, S.~Dasu, F.~Di~Lodovico, A.~M. Eichenbaum, H.~Hu, J.~R. Johnson,
+  R.~Liu, J.~Nielsen, Y.~Pan, R.~Prepost, I.~J. Scott, S.~J. Sekula, J.~H. von
+  Wimmersperg-Toeller, S.~L. Wu, Z.~Yu, H.~Zobernig, T.~M.~B. Kordich, and
+  H.~Neal.
+\newblock Observation of $\mathit{CP}$ violation in the ${\mathit{b}}^{0}$
+  meson system.
+\newblock {\em Phys. Rev. Lett.}, 87:091801, Aug 2001.
+
 \bibitem[Bal79]{1979_Baluni_nEDM_from_QCD}
 V.~Baluni.
 \newblock {CP}-nonconserving effects in quantum chromodynamics.
@@ -50,6 +211,11 @@ M.~V. Balabas, T.~Karaulanov, M.~P. Ledbetter, and D.~Budker.
 \newblock Polarized alkali-metal vapor with minute-long transverse
   spin-relaxation time.
 \newblock {\em Phys. Rev. Lett.}, 105:070801, Aug 2010.
+
+\bibitem[CCFT64]{1964_Fitch_Cronin_CP_violating_Kaon_Decay}
+J.~H. Christenson, J.~W. Cronin, V.~L. Fitch, and R.~Turlay.
+\newblock Evidence for the 2$\pi$ decay of the $k_2^0$ meson.
+\newblock {\em Phys. Rev. Lett.}, 13(4), July 1964.
 
 \bibitem[CDVVW79]{1979_Crewther_et._al._nEDM_from_QCD}
 R.~J. Crewther, P.~Di~Vecchia, G.~Veneziano, and E.~Witten.
@@ -136,6 +302,10 @@ Jonathan Engel, Michael~J. Ramsey-Musolf, and U.~van Kolck.
 P.A. Franken, A.E. Hill, C.W. Peters, and G.~Weinreich.
 \newblock Generation of optical harmonics.
 \newblock {\em Phys. Rev. Lett.}, 7(4):118--9, Aug 1961.
+
+\bibitem[Fie16]{Fierlinger}
+P.~Fielinger.
+\newblock Private communication, Mar 2016.
 
 \bibitem[FK85]{1985_Flambaum_Khriplovich_eEDM_bound}
 V.~V. Flambaum and I.~B. Khriplovich.
@@ -248,6 +418,12 @@ S.~K. Lamoreaux and R.~Golub.
   neutron electric-dipole-moment experiments.
 \newblock {\em Phys. Rev. A}, 71:032104, Mar 2005.
 
+\bibitem[LR08]{2008_Romalis_Lee_Mag_Field_Noise}
+S.-K. Lee and M.V. Romalis.
+\newblock Calculation of magnetic field noise from high-permeability magnetic
+  shields and conducting objects with simple geometry.
+\newblock {\em Journal of Applied Physics}, 103:084904, Apr 2008.
+
 \bibitem[LRMH{\etalchar{+}}07]{2007_Liu_et._al._Schiff_Theorem_and_Corrections}
 C.-P. Liu, J.~Ramsey-Musolf, W.~C. Haxton, R.~G.~E. Timmermans, and A.~E.~L.
   Dieperink.
@@ -319,6 +495,12 @@ J.~M. Pendlebury, W.~Heil, Yu. Sobolev, P.~G. Harris, J.~D. Richardson, R.~J.
   particles in traps.
 \newblock {\em Phys. Rev. A}, 70:032102, Sep 2004.
 
+\bibitem[PM10]{2010_LIGO_Fused_Silica_Space_Charge}
+L.~G. Prokhorov and V.~P. Mitrofanov.
+\newblock Space charge polarization in fused silica test masses of a
+  gravitational wave detector associated with an electrostatic drive.
+\newblock {\em Clas. and Quant. Grav.}, 27(22):225014, 2010.
+
 \bibitem[Pos02]{2002_Pospelov_quark_chromo_EDM}
 Maxim Pospelov.
 \newblock Best values for the cp-odd meson–nucleon couplings from
@@ -335,6 +517,11 @@ E.~M. Purcell and N.~F. Ramsey.
 \newblock On the possibility of electric dipole moments for elementary
   particles and nuclei.
 \newblock {\em Phys. Rev.}, 78:807, Jun 1950.
+
+\bibitem[PR05]{2005_Pospelov_Ritz_EDM_review}
+Maxim Pospelov and Adam Ritz.
+\newblock Electric dipole moments as probes of new physics.
+\newblock {\em Ann. Phys.}, 119:119--169, May 2005.
 
 \bibitem[RCSD02]{2002_Tl_EDM}
 B.~C. Regan, Eugene~D. Commins, Christian~J. Schmidt, and David DeMille.
@@ -447,5 +634,11 @@ F.~Wilczek.
 \newblock Problem of strong {P} and {T} invariance in the presence of
   instantons.
 \newblock {\em Phys. Rev. Lett.}, 40(5):279--82, Jan 1978.
+
+\bibitem[YBKZ01]{MagShielding}
+V.V. Yashchuk, D.~Budker, D.F. Kimball, and M.~Zolotorev.
+\newblock Efficient magnetic shielding for nonlinear magneto- and
+  electro-optics experiments.
+\newblock Dec 2001.
 
 \end{thebibliography}
